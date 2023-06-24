@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>calenpanda_icon.png</file>
+        <file>panda_bg1.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>style.qss</file>
+    </qresource>
+</RCC>
